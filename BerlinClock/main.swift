@@ -68,3 +68,4 @@ func result() -> String {
 
 print("Please enter correct hour in the h:m:s format")
 print(result())
+print("Enjoy it :)")
